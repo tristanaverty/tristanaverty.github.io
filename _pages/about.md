@@ -25,7 +25,7 @@ Teacher in automatic control, image processing and artificial intelligence, I am
 
 > [***"On representation matrices of graphs: Application to structural and spectral classification"***](https://www.theses.fr/s280140)
 
-This thesis is at the interface between signal processing, graph theory and machine learning. I made the following video for the EDSML Doctoral Students Days in November 2022 to present (in 3') this thesis work:
+I made the following video for the EDSML Doctoral Students Days in November 2022 to present (in 3') this thesis work:
 
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/DGD_DDcP4xA?si=0a9WXdnpIOr5rfc2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
