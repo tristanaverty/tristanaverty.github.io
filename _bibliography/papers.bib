@@ -10,10 +10,8 @@
 	pages={2935--2939},
 	year={2024},
 	abstract={Most natural matrices that incorporate information about a graph are the adjacency and the Laplacian matrices. These algebraic representations govern the fundamental concepts and tools in graph signal processing even though they reveal information in different ways. Furthermore, in the context of spectral graph classification, the problem of cospectrality may arise and it is not well handled by these matrices. Thus, the question of finding the best graph representation matrix still stands. In this letter, a new family of representations that well captures information about graphs and also allows to find the standard representation matrices, is introduced. This family of unified matrices well captures the graph information and extends the recent works of the literature. Two properties are proven, namely its positive semidefiniteness and the monotonicity of their eigenvalues. Reported experimental results of spectral graph classification highlight the potential and the added value of this new family of matrices, and evidence that the best representation depends upon the structure of the underlying graph.},
-	selected={true},
 	preview={averty2024new.jpg},
 	pdf={averty2024representation_accepted_manuscript.pdf},
-	publisher={journal},
 }
 
 @article{averty2025hurst,
@@ -25,10 +23,8 @@
 	pages={109884},
 	year={2025},
 	abstract={In this article, two important stochastic processes, namely fractional Brownian motions (fBm) and fractional Gaussian noises (fGn) are analyzed, within a Fisher-Shannon framework. These processes are well suited for the realistic modeling of phenomena occurring across various domains in science and engineering. An unique feature that characterizes both fBm and fGn, is the Hurst parameter \(H\), that measures the long/short range dependence of such stochastic processes. In this paper, we show that these processes, from which we extract the degree distribution of the associated natural visibility graph (NVG), can be located in an informational plane, defined by normalized Shannon entropy \(S\)~and Fisher information measure \(F\), in order to estimate their Hurst exponents. The aim of this work is to map signals onto this informational plane, in which a reference backbone is built using generated fBm and fGn processes with known Hurst exponents. To show the effectiveness of the developed graphical estimator, some real-world data are analyzed, and it found that the \(H\)~estimated by our method are quite comparable to those obtained from four well-known estimators of the literature. Besides, estimation of \(H\)~parameter is very fast and requires a reduced number of samples of the input signal. Using the constructed reference backbone in the Fisher-Shannon plane, the associated \(H\)~exponent can be easily estimated by a simple orthogonal projection of the point \((S, F)\)~extracted from the truncated degree distribution of the considered signal NVG representation.},
-	selected={true},
 	preview={averty2025hurst.jpg},
 	pdf={averty2025hurst_accepted_manuscript.pdf},
-	publisher={journal},
 }
 
 @inproceedings{averty2022detection,
@@ -37,12 +33,10 @@
 	author={Averty, Tristan and Dar{\'e}-Emzivat, Delphine and Boudraa, Abdel-Ouahab},
 	year={2022},
 	booktitle={GRETSI},
-	adress={Nancy},
+	abstract={Dans cet article, nous présentons une stratégie de détection d'épilepsie à partir de signaux EEG (issus d'un seul capteur) basée sur l'algorithme de visibilité, qui consiste à transformer une série temporelle en un graphe dit de visibilité (GV). Nous montrons la pertinence de la distribution des degrés des sommets du GV, qui, combinée à une fonction noyau type Jensen-Shannon d'une machine à vecteurs de support (SVM) permet une classification binaire performante : présence ou absence d'une crise d'épilepsie. La méthode proposée est illustrée sur des données réelles et les résultats comparés à des méthodes de la littérature. Les résultats obtenus en termes de précision, de sensibilité et de spécificité sont similaires à ceux de la littérature voire meilleurs, et ce, en exploitant un seul attribut, à savoir la distribution des degrés du graphe.},
+	preview={averty2022detection.jpg},
 	pdf={averty2022detection.pdf},
 	supp={averty2022detection_poster.pdf},
-	abstract={Dans cet article, nous présentons une stratégie de détection d'épilepsie à partir de signaux EEG (issus d'un seul capteur) basée sur l'algorithme de visibilité, qui consiste à transformer une série temporelle en un graphe dit de visibilité (GV). Nous montrons la pertinence de la distribution des degrés des sommets du GV, qui, combinée à une fonction noyau type Jensen-Shannon d'une machine à vecteurs de support (SVM) permet une classification binaire performante : présence ou absence d'une crise d'épilepsie. La méthode proposée est illustrée sur des données réelles et les résultats comparés à des méthodes de la littérature. Les résultats obtenus en termes de précision, de sensibilité et de spécificité sont similaires à ceux de la littérature voire meilleurs, et ce, en exploitant un seul attribut, à savoir la distribution des degrés du graphe.},
-	preview={averty2022detection.jpg};
-	publisher={Nat. Conf.},
 }
 
 @inproceedings{averty2022approximation,
@@ -51,28 +45,23 @@
 	author={Averty, Tristan and Dar{\'e}-Emzivat, Delphine and Boudraa, Abdel-Ouahab and Pr{\'e}aux, Yves},
 	year={2022},
 	booktitle={GRETSI},
-	adress={Nancy},
-	pdf={averty2022approximation.pdf},
-	supp={averty2022approximation_poster.pdf},
 	abstract={Dans ce travail, nous exploitons la variation de l’entropie de von Neumann de graphes comme mesure de vulnérabilité en proposant une nouvelle forme approchée de cette entropie basée sur des attributs structurels du graphe, à savoir le nombre d’arêtes, de sommets ou encore des degrés du graphe. L’utilisation d’une telle forme est motivée par l’optimisation du temps de calcul qui en découle. Disposant d’une forme simplifiée de l’entropie, nous l’utilisons pour la caractérisation de la vulnérabilité des graphes via l’étude de la variation entropique du graphe suite à la suppression d’arêtes. Les résultats obtenus sur des graphes de grandes tailles montrent la pertinence d’une telle approximation.},
 	preview={averty2022approximation.jpg},
-	publisher={Nat. Conf.},
+	pdf={averty2022approximation.pdf},
+	supp={averty2022approximation_poster.pdf},
 }
 
 @inproceedings{averty2023similarite,
-	abbr={GRETSI},
 	bibtex_show={true},
 	title={Sur la similarité spectrale des graphes par mesure de corrélation},
 	author={Averty, Tristan and Dar{\'e}-Emzivat, Delphine and Boudraa, Abdel-Ouahab},
 	year={2023},
 	booktitle={GRETSI},
 	adress={Grenoble},
+	abstract={Dans cet article, nous présentons une mesure de similarité spectrale entre deux graphes basée sur un calcul de corrélation entre les spectres de leurs matrices de représentation \(\mathbf T_\alpha:=\alpha \mathbf D+(1-2\alpha)\mathbf A\), paramétrée par \(0\leq \alpha\leq 1\), où \(\mathbf A\)~et \(\mathbf D\)~sont respectivement la matrice d'adjacence et la matrice des degrés. Nous montrons par ailleurs que \(\mathbf T_\alpha\)~est semi-définie positive pour \(\alpha\geq 1/2\). Ce travail tend à montrer la pertinence de cette mesure, qui, introduit dans un noyau de type Gaussien d'un SVM permet une classification performante de bases de données de graphes connues de la littérature et de classification de signaux réels transformés en graphe grâce à la méthode dite de visibilité. Les résultats obtenus en termes de mesure d'exactitude sont similaires voire meilleurs à ceux obtenus avec des noyaux structurels pour un temps de calcul bien moindre et ce, en ne calculant qu'un seul spectre pour chaque graphe. De plus, nous montrons l'apport de \(\mathbf T_\alpha\)~par rapport à la matrice d'\(\alpha\)-adjacence de Nikiforov pour la classification de graphes.},
+	preview={averty2023similarite.jpg},
 	pdf={averty2023similarite.pdf},
 	supp={averty2023similarite_presentation.pdf},
-	abstract={Dans cet article, nous présentons une mesure de similarité spectrale entre deux graphes basée sur un calcul de corrélation entre les spectres de leurs matrices de représentation \(\mathbf T_\alpha:=\alpha \mathbf D+(1-2\alpha)\mathbf A\), paramétrée par \(0\leq \alpha\leq 1\), où \(\mathbf A\)~et \(\mathbf D\)~sont respectivement la matrice d'adjacence et la matrice des degrés. Nous montrons par ailleurs que \(\mathbf T_\alpha\)~est semi-définie positive pour \(\alpha\geq 1/2\). Ce travail tend à montrer la pertinence de cette mesure, qui, introduit dans un noyau de type Gaussien d'un SVM permet une classification performante de bases de données de graphes connues de la littérature et de classification de signaux réels transformés en graphe grâce à la méthode dite de visibilité. Les résultats obtenus en termes de mesure d'exactitude sont similaires voire meilleurs à ceux obtenus avec des noyaux structurels pour un temps de calcul bien moindre et ce, en ne calculant qu'un seul spectre pour chaque graphe. De plus, nous montrons l'apport de \(\mathbf T_\alpha\)~par rapport à la matrice d'\(\alpha\)-adjacence de Nikiforov pour la classification de graphes.},
-	selected={true},
-	preview={averty2023similarite.jpg},
-	publisher={Nat. Conf.},
 }
 
 
