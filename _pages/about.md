@@ -9,8 +9,8 @@ profile:
   image: Photo2023_EN.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>IRENav (UR 3634)</p>
-    <p>Bureau 00.023</p>
+    <p>Institut de Recherche et d'Études Navales</p><br>
+    <p>Bureau 00.023, Bâtiment Bougainville</p>
     <p>BCRM Brest, École navale, CC 600</p>
     <p>29240 Brest Cedex 9</p>
 

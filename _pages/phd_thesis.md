@@ -23,7 +23,7 @@ Monday 28<sup>th</sup> Avril 2025, 1:30 p.m., French Naval Academy, Lanvéoc, Fr
 
 <h1 class="post-title">{{ "committee members" }}</h1>
 
-<table>
+<table style="width:100%">
     <tr>
         <th><a href="https://perso.ens-lyon.fr/pierre.borgnat/">Pierre BORGNAT</a></th>
         <td>DR CNRS</td>
