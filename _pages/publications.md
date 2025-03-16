@@ -16,11 +16,11 @@ nav_order: 1
 
 <h1 class="post-title">{{ "journal papers" }}</h1>
 
-{% bibliography journal_papers.bib %}
+{% bibliography -f {{ site.scholar.bibliography_journal_papers }} %}
 
 <h1 class="post-title">{{ "national conferences" }}</h1>
 
-{% bibliography nat_conf_papers.bib %}
+{% bibliography -f {{ site.scholar.bibliography_nat_conf_papers }} %}
 
 </div>
 
