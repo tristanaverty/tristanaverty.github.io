@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Naval Academy Doctoral Students Day
+title: French Naval Academy Doctoral Students Day
 date: 2023-01-11
 inline: false
 related_posts: false

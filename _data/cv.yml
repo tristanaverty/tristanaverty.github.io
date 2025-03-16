@@ -4,7 +4,7 @@
     - name: Full Name
       value: Tristan Averty
     - name: Age
-      value: 25
+      value: 26
     - name: Languages
       value: French (mother tongue), English (C1), German (B1)
 
@@ -20,33 +20,33 @@
 - title: Education
   type: time_table
   contents:
-    - title: <a href=https://www.theses.fr/s280140><p>PhD in applied mathematics</p></a>
-      institution: <a href=https://www.univ-brest.fr/fr><p>University of Western Brittany, Brest, France</p></a>
+    - title: <a href=../phd_thesis>PhD in applied mathematics</a>
+      institution: <a href=https://www.univ-brest.fr/fr>University of Western Brittany, Brest, France</a>
       year: 2020 - 2024
-    - title: <a href=https://reseau-figure.fr><p>Cursus Master en Ingénierie</p></a>
-      institution: <a href=https://www.univ-larochelle.fr><p>La Rochelle University, La Rochelle, France</p></a>
+    - title: <a href=https://reseau-figure.fr>Cursus Master en Ingénierie</a>
+      institution: <a href=https://www.univ-larochelle.fr>La Rochelle University, La Rochelle, France</a>
       year: 2015 - 2020
-    - title: <a href=https://master-mix.univ-larochelle.fr><p>Master's degree in applied mathematics</p></a>
-      institution: <a href=https://www.univ-larochelle.fr><p>La Rochelle University, La Rochelle, France</p></a>
+    - title: <a href=https://master-mix.univ-larochelle.fr>Master's degree in applied mathematics</a>
+      institution: <a href=https://www.univ-larochelle.fr>La Rochelle University, La Rochelle, France</a>
       year: 2018 - 2020
 
-    - title: <a href=https://info.erasmusplus.fr><p>ERASMUS+ Exchange Semester</p></a>
-      institution: <a href=https://www.tuwien.at/en><p>TU Wien, Wien, Austria</p></a>
+    - title: <a href=https://info.erasmusplus.fr>ERASMUS+ Exchange Semester</a>
+      institution: <a href=https://www.tuwien.at/en>TU Wien, Wien, Austria</a>
       year: 2017 - 2018
 
     - title: Bachelor's degree in mathematics
-      institution: <a href=https://www.univ-larochelle.fr><p>La Rochelle University, La Rochelle, France</p></a>
+      institution: <a href=https://www.univ-larochelle.fr>La Rochelle University, La Rochelle, France</a>
       year: 2015 - 2018
 
     - title: Scientific Baccalaureate
-      institution: <a href=https://m2navarre.net><p>Marguerite de Navarre Highschool, Bourges, France</p></a>
+      institution: <a href=https://m2navarre.net>Marguerite de Navarre Highschool, Bourges, France</a>
       year: 2012 - 2015
 
 - title: Experience
   type: time_table
   contents:
     - title: Teaching and Research Assistant
-      institution: <a href=https://www.ecole-navale.fr><p>French Naval Academy, Brest, France</p></a>
+      institution: <a href=https://www.ecole-navale.fr/recherche/irenav/linstitut-de-recherche-de-lecole-navale/>French Naval Academy, Brest, France</a>
       year: 2020 - 
       description:
         - Member of the French Naval Academy's research and teaching council.
@@ -54,11 +54,11 @@
       institution: National Gendarmerie, France
       year: 2016 - 
     - title: Junior engineer in ambisonic audio signal processing
-      institution: <a href=https://b-com.com> <p>b-com, Cesson-Sévigné, France</p></a>
+      institution: <a href=https://b-com.com> b-com, Cesson-Sévigné, France</a>
       year: 2020
       maindescription: "Internship : Automatic learning of 3D audio reverb effect parameters."
     - title: Junior engineer in meteorological data processing
-      institution: <a href=https://www.numtech.fr><p>NUMTECH, Aubière, France</p></a>
+      institution: <a href=https://www.numtech.fr>NUMTECH, Aubière, France</a>
       year: 2019
       maindescription: "Internship : Statistical improvement of single-point weather forecasts."
 
@@ -72,7 +72,7 @@
         - MacOS
     - title: Computer languages
       items: 
-        - Python (Scipy, Numpy, ScikitImage, OpenCV, ScikitLearn, TensorFlow, Keras,...)
+        - Python (Scipy, Numpy, Matplotlib, Plotly, ScikitImage, OpenCV, ScikitLearn, TensorFlow, Keras, PyTorch, NetworkX, PyGSP, ...)
         - MATLAB
         - Jupyter Notebook
         - Markdown
@@ -83,12 +83,17 @@
         - LaTeX
         - Office
         - Gephi
+    - title: Graphic design
+      items:  
+        - Adobe After Effect
+        - Adobe Premiere Pro
+        - Canva
     - title: Green IT
       items: Green'IT certification obtained with a pass rate of 90.4%
     - title: Computer security
       items: 
-        - <a href=https://pix.fr><p>PIX test</p></a>
-        - <a href=https://secnumacademie.gouv.fr><p>ANSSI's "SecNumAcadémie" MOOC</p></a>
+        - <a href=https://pix.fr>PIX test</a>
+        - <a href=https://secnumacademie.gouv.fr>ANSSI's "SecNumAcadémie" MOOC</a>
     - title: First aid
       items:
         - Level 1 civic prevention and first aid (PSC1)

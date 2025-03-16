@@ -7,35 +7,28 @@ nav: true
 nav_order: 5
 ---
 
+<div class="publications">
+<h1 class="post-title">{{ "lectures, tutorials and practical work" }}</h1>
 
-<br>
+<ul>
+    <li>Maritime data processing - <i>in charge of the module</i> (20h)</li>
+    <li>Fundamental tools in image processing (14h)</li>  
+    <li>ISR : image processing and CNN (12h)</li>  
+    <li>System control : automatic control and Kalman filtering (43h)</li>  
+    <li>Time-frequency and time-scale analysis (16h)</li>  
+    <li>Introduction to machine learning and its application to passive acoustics (8h)</li>  
+    <li>Supervision of scientific projects (20h)</li>  
+</ul>
 
----
+<h1 class="post-title">{{ "scientific projects supervision" }}</h1>
 
-### lectures, tutorials and practical work
+<ul>
+    <li>"Underwater communication by audio steganography"</li>
+    <li>"Use of SNN (spiking neural networks) for signal and/or image classification"</li>
+    <li>"Study of machine learning algorithms for magnetic anomaly detection"</li>
+    <li>"Classification and detection of real signals using visibility graphs"</li>
+    <li>"Target detection and tracking: Self-guidance of a USV nautical drone"</li>
+    <li>"Right whale detection using neural networks"</li>
+</ul>
 
-- Fundamental tools in image processing
-- Maritime data processing
-- Systems control (automatic control and Kalman filtering)
-- Time-frequency analysis
-- Introduction to machine learning
-- Introduction to MATLAB
-- Supervision of scientific projects
-
-<br>
-
----
-
-### scientific projects supervision
-
-- "Classification and detection of real signals using visibility graphs"
-- "Target detection and tracking: Self-guidance of a USV nautical drone"
-- "Right whale detection using neural networks"
-
-<br>
-
----
-
-### events
-
-- In May 2022, I supervised a week devoted to artificial intelligence in partnership with Sorbonne University, during which cadets were introduced to machine learning concepts through practical work.
+</div>

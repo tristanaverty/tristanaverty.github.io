@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i><b>Teaching and Research Assistant in Signal Processing at the French Naval Academy</b></i>
+subtitle: <i><b>Teaching and Research Assistant in Applied Mathematics at the French Naval Academy</b></i>
 
 profile:
   align: right
@@ -21,20 +21,6 @@ Passionate about science and technology, but more particularly about mathematics
 
 Born of a mathematics professor mother and a military father, science and defense are two areas deeply rooted in me. That's why I managed to carve out a not-so-narrow path between these two fields by becoming a **Teaching and Research Assistant** at the French Naval Academy.
 
-Teacher in automatic control, image processing and artificial intelligence, I am also writing my thesis at the interface between signal processing, graph theory and machine learning entitled :
+Teacher in system control, image processing and artificial intelligence, I am also writing my thesis at the interface between signal processing, graph theory and machine learning entitled :
 
-> [***"On representation matrices of graphs: Application to structural and spectral classification"***](https://www.theses.fr/s280140)
-
-I made the following video for the EDSML Doctoral Students Days in November 2022 to present (in 3') this thesis work:
-
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/DGD_DDcP4xA?si=0a9WXdnpIOr5rfc2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-<br>
-
----
-
-In my spare time, you'll probably find me hiking or paddling near the Crozon peninsula, an area I've come to love for its history and geography.
-
-<center><img width="560" src="../../assets/img/hiking.jpg"></center>
-
-<br>
+> [***"Matrices de représentation généralisées, mesures spectrales et distances statistiques pour l’analyse et la classification de graphes et de signaux"***](./phd_thesis)
