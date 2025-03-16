@@ -10,9 +10,9 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>IRENav (UR 3634)</p>
-    <p>École navale, BRCM Brest</p>
-    <p>29200 Brest</p>
-  address : <center><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%74%72%69%73%74%61%6E%2E%61%76%65%72%74%79%40%67%6D%61%69%6C%2E%63%6F%6D">&#64; E-Mail Contact &#64;</a></center>
+    <p>Bureau 00.023</p>
+    <p>BCRM Brest, École navale, CC 600</p>
+    <p>29240 Brest Cedex 9</p>
 
 news: false
 latest_posts: false
