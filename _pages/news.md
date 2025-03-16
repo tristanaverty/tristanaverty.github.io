@@ -8,6 +8,6 @@ nav_order: 1
 
 <div>
 
-{% include news.html %}
+{% include news.liquid %}
 
 </div>
