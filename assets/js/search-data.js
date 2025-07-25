@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-news",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-news",
           title: "news",
           description: "",
           section: "Navigation",
@@ -23,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-projects",
+          title: "projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -89,6 +96,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20240117_JourneeDoctorantsEN.html";
+            },},{id: "projects-musit",
+          title: 'MUSIT',
+          description: "Multi Sensor Inferred Trajectories",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project.html";
             },},{
         id: 'social-email',
         title: 'email',
