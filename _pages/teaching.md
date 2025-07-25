@@ -7,18 +7,272 @@ nav: true
 nav_order: 5
 ---
 
+
+
 <div class="publications">
 <h1 class="post-title">{{ "lectures, tutorials and practical work" }}</h1>
 
-<ul>
-    <li>Maritime data processing - <i>in charge of the module</i> (20h)</li>
-    <li>Fundamental tools in image processing (14h)</li>  
-    <li>ISR : image processing and CNN (12h)</li>  
-    <li>System control : automatic control and Kalman filtering (43h)</li>  
-    <li>Time-frequency and time-scale analysis (16h)</li>  
-    <li>Introduction to machine learning and its application to passive acoustics (8h)</li>  
-    <li>Supervision of scientific projects (20h)</li>  
-</ul>
+<table style="width:100%" class="text-left">
+<thead>
+<tr>
+<th colspan="4" class="text-center">Academic year 2024 – 2025</th>
+</tr>
+<tr>
+<th>Module name</th>
+<th>Level</th>
+<th>Lecture</th>
+<th>Tutorial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Maritime data processing (R)</td>
+<td>M1</td>
+<td>6h</td>
+<td>12h</td>
+</tr>
+<tr>
+<td>Fundamental tools in image processing (R)</td>
+<td>L3</td>
+<td>6h</td>
+<td>6h</td>
+</tr>
+<tr>
+<td>ISR : image processing and CNN</td>
+<td>M1</td>
+<td>–</td>
+<td>12h</td>
+</tr>
+<tr>
+<td>System control : automatic control and Kalman filtering</td>
+<td>M1</td>
+<td>13h</td>
+<td>23h</td>
+</tr>
+<tr>
+<td>Introduction to machine learning and its application to passive acoustics</td>
+<td>M1</td>
+<td>–</td>
+<td>8h</td>
+</tr>
+<tr>
+<td>Time-frequency and time-scale analysis</td>
+<td>M1</td>
+<td>–</td>
+<td>16h</td>
+</tr>
+<tr>
+<td>Supervision of scientific projects</td>
+<td>M1</td>
+<td>–</td>
+<td>10h</td>
+</tr>
+</tbody>
+
+<thead>
+<tr>
+<th colspan="4" class="text-center">Academic year 2023 – 2024</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Maritime data processing (R)</td>
+<td>M1</td>
+<td>6h</td>
+<td>10h</td>
+</tr>
+<tr>
+<td>Fundamental tools in image processing (R)</td>
+<td>L3</td>
+<td>6h</td>
+<td>6h</td>
+</tr>
+<tr>
+<td>Filming a MOOC episode on machine learning</td>
+<td>–</td>
+<td>4h</td>
+<td>–</td>
+</tr>
+<tr>
+<td>ISR : image processing and CNN</td>
+<td>M1</td>
+<td>–</td>
+<td>12h</td>
+</tr>
+<tr>
+<td>System control : automatic control and Kalman filtering</td>
+<td>M1</td>
+<td>13h</td>
+<td>23h</td>
+</tr>
+<tr>
+<td>Introduction to machine learning and its application to passive acoustics</td>
+<td>M1</td>
+<td>–</td>
+<td>8h</td>
+</tr>
+<tr>
+<td>Time-frequency and time-scale analysis</td>
+<td>M1</td>
+<td>–</td>
+<td>15h</td>
+</tr>
+<tr>
+<td>Supervision of scientific projects</td>
+<td>M1</td>
+<td>–</td>
+<td>10h</td>
+</tr>
+</tbody>
+
+
+<thead>
+<tr>
+<th colspan="4" class="text-center">Academic year 2022 – 2023</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>System control : automatic control and Kalman filtering</td>
+<td>M1</td>
+<td>10h</td>
+<td>12h</td>
+</tr>
+<tr>
+<td>Fundamental tools in image processing (R)</td>
+<td>L3</td>
+<td>6h</td>
+<td>6h</td>
+</tr>
+<tr>
+<td>Maritime data processing</td>
+<td>M1</td>
+<td>–</td>
+<td>3h</td>
+</tr>
+<tr>
+<td>ISR : image processing and CNN</td>
+<td>M1</td>
+<td>–</td>
+<td>12h</td>
+</tr>
+<tr>
+<td>Maritime GEOINT</td>
+<td>M1</td>
+<td>–</td>
+<td>3h</td>
+</tr>
+<tr>
+<td>MATLAB</td>
+<td>M1</td>
+<td>–</td>
+<td>4h</td>
+</tr>
+<tr>
+<td>Time-frequency and time-scale analysis</td>
+<td>M1</td>
+<td>–</td>
+<td>16h</td>
+</tr>
+<tr>
+<td>Introduction to machine learning and its application to passive acoustics</td>
+<td>M1</td>
+<td>–</td>
+<td>12h</td>
+</tr>
+<tr>
+<td>Supervision of scientific projects</td>
+<td>M1</td>
+<td>–</td>
+<td>15h</td>
+</tr>
+</tbody>
+
+<thead>
+<tr>
+<th colspan="4" class="text-center">Academic year 2021 – 2022</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fourier series</td>
+<td>L3</td>
+<td>–</td>
+<td>26h</td>
+</tr>
+<tr>
+<td>Fundamental tools in image processing (R)</td>
+<td>L3</td>
+<td>6h</td>
+<td>6h</td>
+</tr>
+<tr>
+<td>Corvette « Intelligence Artificielle »</td>
+<td>M1</td>
+<td>16h</td>
+<td>–</td>
+</tr>
+<tr>
+<td>MATLAB</td>
+<td>M1</td>
+<td>–</td>
+<td>24h</td>
+</tr>
+<tr>
+<td>Time-frequency and time-scale analysis</td>
+<td>M1</td>
+<td>–</td>
+<td>10h</td>
+</tr>
+<tr>
+<td>Kalman filtering</td>
+<td>M1</td>
+<td>–</td>
+<td>8h</td>
+</tr>
+<tr>
+<td>Supervision of scientific projects</td>
+<td>M1</td>
+<td>–</td>
+<td>10h</td>
+</tr>
+</tbody>
+
+<thead>
+<tr>
+<th colspan="4" class="text-center">Academic year 2020 – 2021</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time-frequency and time-scale analysis</td>
+<td>M1</td>
+<td>–</td>
+<td>10h</td>
+</tr>
+<tr>
+<td>System control : automatic control</td>
+<td>M1</td>
+<td>10h</td>
+<td>12h</td>
+</tr>
+<tr>
+<td>Kalman filtering</td>
+<td>M1</td>
+<td>–</td>
+<td>8h</td>
+</tr>
+<tr>
+<td>Supervision of scientific projects</td>
+<td>M1</td>
+<td>–</td>
+<td>10h</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+<b>(R) means that I am in charge of the module</b>
 
 <h1 class="post-title">{{ "scientific projects supervision" }}</h1>
 

@@ -22,7 +22,7 @@
   contents:
     - title: <a href=../phd_thesis>PhD in applied mathematics</a>
       institution: <a href=https://www.univ-brest.fr/fr>University of Western Brittany, Brest, France</a>
-      year: 2020 - 2024
+      year: 2020 - 2025
     - title: <a href=https://reseau-figure.fr>Cursus Master en Ingénierie</a>
       institution: <a href=https://www.univ-larochelle.fr>La Rochelle University, La Rochelle, France</a>
       year: 2015 - 2020
@@ -45,9 +45,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: <a href=https://www.ecole-navale.fr/recherche/irenav/linstitut-de-recherche-de-lecole-navale/>French Naval Academy, Brest, France</a>
+      year: 2025
+      description:
+        - Member of the Institute for Naval Research and Study's scientific committee.
     - title: Teaching and Research Assistant
       institution: <a href=https://www.ecole-navale.fr/recherche/irenav/linstitut-de-recherche-de-lecole-navale/>French Naval Academy, Brest, France</a>
-      year: 2020 - 
+      year: 2020 - 2025
       description:
         - Member of the French Naval Academy's research and teaching council.
     - title: Non-commissioned officer in the Gendarmerie's operational reserve
@@ -83,11 +88,14 @@
         - LaTeX
         - Office
         - Gephi
-    - title: Graphic design
+    - title: Audio, image & video
       items:  
         - Adobe After Effect
         - Adobe Premiere Pro
+        - Audacity
         - Canva
+        - Inkscape
+        - GIMP
     - title: Green IT
       items: Green'IT certification obtained with a pass rate of 90.4%
     - title: Computer security
