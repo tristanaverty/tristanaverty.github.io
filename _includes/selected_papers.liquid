@@ -1,3 +1,5 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  {% bibliography -f {{ site.scholar.bibliography_journal_papers }} --group_by none --query @*[selected=true]* %}
+  {% bibliography -f {{ site.scholar.bibliography_nat_conf_papers }} --group_by none --query @*[selected=true]* %}
+  {% bibliography -f {{ site.scholar.bibliography_datasets }} --group_by none --query @*[selected=true]* %}
 </div>

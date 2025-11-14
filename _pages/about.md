@@ -6,7 +6,7 @@ subtitle: <i><b>Assistant Professor in Applied Mathematics at the French Naval A
 
 profile:
   align: right
-  image: Photo2023_EN.jpg
+  image: photo.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>IRENav, École navale</p><br>
@@ -17,7 +17,7 @@ profile:
 
 news: false
 latest_posts: false
-selected_papers: false
+selected_papers: true
 social: true
 ---
 

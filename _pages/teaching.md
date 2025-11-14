@@ -15,13 +15,63 @@ nav_order: 5
 <table style="width:100%" class="text-left">
 <thead>
 <tr>
-<th colspan="4" class="text-center">Academic year 2024 – 2025</th>
+<th colspan="4" class="text-center">Academic year 2025 – 2026</th>
 </tr>
 <tr>
 <th>Module name</th>
 <th>Level</th>
 <th>Lecture</th>
 <th>Tutorial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Maritime data processing (R)</td>
+<td>M1</td>
+<td>6h</td>
+<td>12h</td>
+</tr>
+<tr>
+<td>Python for data processing (R)</td>
+<td>M1</td>
+<td>6h</td>
+<td>6h</td>
+</tr>
+<tr>
+<td>ISR : image processing and CNN</td>
+<td>M1</td>
+<td>–</td>
+<td>12h</td>
+</tr>
+<tr>
+<td>System control : automatic control and Kalman filtering</td>
+<td>M1</td>
+<td>13h</td>
+<td>23h</td>
+</tr>
+<tr>
+<td>Introduction to machine learning and its application to passive acoustics</td>
+<td>M1</td>
+<td>–</td>
+<td>8h</td>
+</tr>
+<tr>
+<td>Time-frequency and time-scale analysis</td>
+<td>M1</td>
+<td>–</td>
+<td>16h</td>
+</tr>
+<tr>
+<td>Supervision of scientific projects</td>
+<td>M1</td>
+<td>–</td>
+<td>20h</td>
+</tr>
+</tbody>
+
+<thead>
+<tr>
+<th colspan="4" class="text-center">Academic year 2024 – 2025</th>
 </tr>
 </thead>
 <tbody>
@@ -65,7 +115,7 @@ nav_order: 5
 <td>Supervision of scientific projects</td>
 <td>M1</td>
 <td>–</td>
-<td>10h</td>
+<td>20h</td>
 </tr>
 </tbody>
 
