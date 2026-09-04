@@ -51,13 +51,14 @@
       description:
         - Member of the Institute for Naval Research and Study's scientific committee.
     - title: Non-commissioned officer in the Gendarmerie's operational reserve
-      institution: National Gendarmerie, France
+      institution: Gendarmerie Nationale, France
       year: 2016 -
     - title: Teaching and Research Assistant
       institution: <a href=https://www.ecole-navale.fr/recherche/irenav/linstitut-de-recherche-de-lecole-navale/>French Naval Academy, Brest, France</a>
       year: 2020 - 2025
       description:
-        - Member of the French Naval Academy's research and teaching council.
+        - Member of the French Naval Academy's research council.
+        - Member of the French Naval Academy's teaching council.
     - title: Junior engineer in ambisonic audio signal processing
       institution: <a href=https://b-com.com> b-com, Cesson-Sévigné, France</a>
       year: 2020

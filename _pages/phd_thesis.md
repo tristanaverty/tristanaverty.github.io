@@ -3,7 +3,7 @@ layout: page
 title: doctoral thesis
 permalink: /phd_thesis/
 nav: true
-nav_order: 6
+nav_order: 8
 ---
 
 <div class="publications">

@@ -28,4 +28,4 @@ Born of a mathematics professor mother and a military father, science and defens
 
 Teacher in system control, image processing and artificial intelligence, I have also recently defended my thesis at the interface between signal processing, graph theory and machine learning entitled :
 
-> [***"Matrices de représentation généralisées, mesures spectrales et distances statistiques pour l’analyse et la classification de graphes et de signaux"***](./phd_thesis)
+> [***"Generalized representation matrices, spectral measures and statistical distances for graph and signal analysis and classification"***](./phd_thesis)
