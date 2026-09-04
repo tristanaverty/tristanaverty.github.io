@@ -20,4 +20,4 @@ Other courses I have taught or am currently teaching (&reg; means that I was or 
 * Time-frequency and time-scale analysis
 * Initiation to MATLAB
 
-Over the years, I also have [supervised numerous scientific projects and internships](./supervision).
+Over the years, I also have supervised numerous scientific projects and internships [<b>(click here to learn more)</b>](../supervision).
